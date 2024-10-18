@@ -2,7 +2,7 @@
   box-sizing: border-box;
   color: #f4f1e1;
 }
-.section-1::after {
+/* .section-1::after {
   width: 1440px;
   height: 10202px;
   content: "";
@@ -11,7 +11,7 @@
   left: 0;
   background-image: url("../images/Frame1.svg");
   opacity: 0.3;
-}
+} */
 body {
   width: 1440px;
   display: block;
@@ -50,18 +50,8 @@ body {
   display: flex;
   overflow: hidden;
 }
-h2 {
-  font-size: 80px;
-  margin-top: 80px;
-  margin-left: 550px;
-}
-h1 {
+.text {
   font-size: 300px;
   margin-top: -24px;
   margin-left: 200px;
-}
-p {
-  font-size: 34px;
-  margin-top: 60px;
-  margin-left: 290px;
 }
