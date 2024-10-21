@@ -1,0 +1,59 @@
+.section-2 {
+  width: 1440px;
+  height: 1127px;
+}
+.tarot-and-stars {
+  width: 100%;
+  display: flex;
+  overflow: hidden;
+}
+.tarot-and-stars :nth-of-type(1) {
+  width: 426px;
+  height: 748px;
+  margin-top: 70px;
+  margin-left: 235px;
+}
+.tarot-and-stars :nth-of-type(2) {
+  width: 445px;
+  height: 748px;
+  margin-top: 280px;
+  margin-left: 140px;
+}
+.l10 {
+  font-size: 300px;
+  margin-top: -770px;
+  margin-left: 320px;
+}
+.nach {
+  font-size: 50px;
+  margin-top: 174px;
+  margin-left: 321px;
+}
+.sstar1 {
+  width: 522px;
+  height: 531px;
+  margin-top: -350px;
+  margin-left: -210px;
+}
+.sstar2 {
+  width: 522px;
+  height: 531px;
+  margin-top: -1050px;
+  margin-left: 570px;
+}
+.wow {
+  font-size: 300px;
+  margin-top: 20px;
+  margin-left: 845px;
+}
+.lang {
+  font-size: 50px;
+  margin-top: 180px;
+  margin-left: 940px;
+}
+.sstar3 {
+  width: 522px;
+  height: 531px;
+  margin-top: -400px;
+  margin-left: 1000px;
+}
