@@ -19,3 +19,591 @@ body {
   font-family: "Alegreya";
   background-color: #061e37;
 }
+.section-1 {
+  width: 1440px;
+  height: 1678px;
+  background-image: url("../images/Frame25.svg");
+  overflow: hidden;
+}
+.sun-and-star {
+  width: 100%;
+  height: 496px;
+  display: flex;
+}
+.sun-and-star img:nth-of-type(1) {
+  width: 1015px;
+  height: 936px;
+  transform: rotate(-7deg);
+  margin-top: -420px;
+  margin-left: -210px;
+}
+.sun-and-star img:nth-of-type(2) {
+  width: 362px;
+  height: 367px;
+  margin-left: 129px;
+  margin-top: 110px;
+}
+
+.Alegreya {
+  font-size: 300px;
+  margin-top: -29px;
+  margin-left: 204px;
+}
+.O-shrifte {
+  font-size: 100px;
+  margin-top: 87px;
+  margin-left: 502px;
+}
+.nabor {
+  font-size: 34px;
+  margin-top: 36px;
+  margin-left: 292px;
+  line-height: 120%;
+}
+.star2 {
+  width: 327px;
+  height: 330px;
+  margin-top: -30px;
+  margin-left: -4px;
+  transform: rotate(0deg);
+}
+.section-2 {
+  width: 1440px;
+  height: 1127px;
+  overflow: hidden;
+}
+.tarot-and-stars {
+  width: 100%;
+  display: flex;
+}
+.tarot-and-stars :nth-of-type(1) {
+  width: 426px;
+  height: 748px;
+  margin-top: 70px;
+  margin-left: 235px;
+}
+.tarot-and-stars :nth-of-type(2) {
+  width: 445px;
+  height: 748px;
+  margin-top: 280px;
+  margin-left: 140px;
+}
+.l10 {
+  font-size: 300px;
+  margin-top: -770px;
+  margin-left: 320px;
+}
+.nach {
+  font-size: 50px;
+  margin-top: 174px;
+  margin-left: 321px;
+}
+.sstar1 {
+  width: 522px;
+  height: 531px;
+  margin-top: -350px;
+  margin-left: -210px;
+}
+.sstar2 {
+  width: 522px;
+  height: 531px;
+  margin-top: -1050px;
+  margin-left: 570px;
+}
+.wow {
+  font-size: 300px;
+  margin-top: 20px;
+  margin-left: 845px;
+}
+.lang {
+  font-size: 50px;
+  margin-top: 180px;
+  margin-left: 940px;
+}
+.sstar3 {
+  width: 522px;
+  height: 531px;
+  margin-top: -400px;
+  margin-left: 1000px;
+}
+.section-3 {
+  width: 1440px;
+  height: 1238px;
+  background-image: url("../images/Frame28.svg");
+  overflow: hidden;
+}
+.osobennosti {
+  display: flex;
+  width: 1241px;
+  height: 582px;
+  margin: 0 auto;
+  padding-top: 590px;
+  justify-content: space-between;
+}
+.osob {
+  font-size: 120px;
+  margin-left: -17px;
+  margin-top: -236px;
+}
+.help {
+  width: 445px;
+  height: 520px;
+}
+.ygl {
+  font-size: 40px;
+  line-height: 135%;
+  margin-top: 227px;
+  margin-left: -661px;
+}
+.asimm {
+  font-size: 40px;
+  margin-top: 508px;
+  margin-left: 259px;
+}
+.en {
+  font-size: 40px;
+  margin-top: 161px;
+  margin-left: 93px;
+}
+.pro {
+  font-size: 40px;
+  margin-top: 65px;
+  margin-left: 152px;
+  line-height: 135%;
+}
+.vir {
+  font-size: 40px;
+  margin-top: 51px;
+  margin-left: 188px;
+  line-height: 135%;
+}
+.section-4 {
+  width: 1440px;
+  height: 1156px;
+}
+.left {
+  width: 700px;
+  height: 700px;
+  margin-top: -312px;
+  margin-left: -692px;
+}
+.history {
+  font-size: 130px;
+  margin-top: 141px;
+  margin-left: 432px;
+}
+.taroo3 {
+  width: 950px;
+  height: 550px;
+  margin-top: -273px;
+  margin-left: 487px;
+}
+.textic {
+  font-size: 34px;
+  margin-top: -473px;
+  margin-left: 574px;
+  line-height: 120%;
+}
+.tochka {
+  font-size: 40px;
+  transform: rotate(-90deg);
+  margin-top: -171px;
+  margin-left: 1281px;
+}
+.section-5 {
+  width: 1440px;
+  height: 1375px;
+}
+.fr4 {
+  margin-top: -157px;
+  margin-left: 7px;
+}
+.circle {
+  width: 1200px;
+  height: 1200px;
+  position: absolute;
+  top: 5368px;
+  left: 143px;
+}
+.section-6 {
+  width: 1440px;
+  height: 1146px;
+  overflow: hidden;
+}
+.cloudy {
+  position: absolute;
+  width: 685px;
+  top: 6572px;
+  left: 27px;
+}
+.yellow {
+  position: absolute;
+  top: 6703px;
+  left: -7px;
+}
+.starsglifi {
+  position: absolute;
+  top: 6604px;
+  left: 784px;
+}
+.glifi {
+  font-size: 180px;
+  position: absolute;
+  top: 6619px;
+  left: 827px;
+}
+.glif1 {
+  width: 266px;
+  height: 165px;
+  position: absolute;
+  top: 7343px;
+  left: 294px;
+}
+.uh1 {
+  font-size: 150px;
+  transform: rotate(-30deg);
+  position: absolute;
+  top: 7355px;
+  left: 421px;
+  color: #031d2e;
+}
+.glif2 {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 7081px;
+  left: 481px;
+}
+.uh2 {
+  font-size: 150px;
+  color: #031d2e;
+  position: absolute;
+  top: 7104px;
+  left: 544px;
+}
+.glif3 {
+  width: 230px;
+  height: 230px;
+  position: absolute;
+  top: 6910px;
+  left: 708px;
+}
+.uh3 {
+  font-size: 150px;
+  color: #031d2e;
+  position: absolute;
+  top: 6940px;
+  left: 819px;
+  transform: rotate(15deg);
+}
+.glif4 {
+  width: 180px;
+  height: 180px;
+  position: absolute;
+  top: 7246px;
+  left: 628px;
+}
+.uh4 {
+  font-size: 150px;
+  color: #031d2e;
+  position: absolute;
+  top: 7230px;
+  left: 657px;
+}
+.glif5 {
+  width: 210px;
+  height: 210px;
+  position: absolute;
+  top: 7478px;
+  left: 652px;
+}
+.uh5 {
+  font-size: 150px;
+  color: #031d2e;
+  position: absolute;
+  top: 7517px;
+  left: 740px;
+}
+.glif6 {
+  width: 225px;
+  height: 225px;
+  position: absolute;
+  top: 7095px;
+  left: 883px;
+}
+.uh6 {
+  font-size: 120px;
+  color: #031d2e;
+  position: absolute;
+  top: 7147px;
+  left: 941px;
+  transform: rotate(-15deg);
+}
+.glif7 {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 7300px;
+  left: 867px;
+}
+.uh7 {
+  font-size: 140px;
+  color: #031d2e;
+  position: absolute;
+  top: 7320px;
+  left: 915px;
+}
+.glif8 {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 6940px;
+  left: 1072px;
+}
+.uh8 {
+  font-size: 150px;
+  color: #031d2e;
+  position: absolute;
+  top: 6958px;
+  left: 1131px;
+}
+.glif9 {
+  width: 170px;
+  height: 170px;
+  position: absolute;
+  top: 7203px;
+  left: 1228px;
+}
+.uh9 {
+  font-size: 150px;
+  position: absolute;
+  top: 7194px;
+  left: 1274px;
+  color: #031d2e;
+}
+.glif10 {
+  width: 190px;
+  height: 190px;
+  position: absolute;
+  top: 7425px;
+  left: 1076px;
+}
+.uh10 {
+  font-size: 150px;
+  color: #031d2e;
+  position: absolute;
+  top: 7433px;
+  left: 1137px;
+  transform: rotate(-7deg);
+}
+.section-7 {
+  width: 1440px;
+  height: 1470px;
+  overflow: hidden;
+}
+.s1 {
+  width: 274px;
+  height: 323px;
+  position: absolute;
+  top: 8490px;
+  left: -22px;
+}
+.s2 {
+  width: 201px;
+  height: 216px;
+  position: absolute;
+  top: 8120px;
+  left: 98px;
+}
+.s3 {
+  width: 76px;
+  height: 84px;
+  position: absolute;
+  top: 7954px;
+  left: 178px;
+}
+.s4 {
+  width: 130px;
+  height: 140px;
+  position: absolute;
+  top: 7730px;
+  left: 312px;
+}
+.s5 {
+  width: 130px;
+  height: 140px;
+  position: absolute;
+  top: 7995px;
+  left: 442px;
+}
+.s6 {
+  width: 171px;
+  height: 171px;
+  position: absolute;
+  top: 8341px;
+  left: 427px;
+}
+.s7 {
+  width: 81px;
+  height: 98px;
+  position: absolute;
+  top: 8121px;
+  left: 716px;
+}
+.s8 {
+  width: 68px;
+  height: 60px;
+  position: absolute;
+  top: 7848px;
+  left: 698px;
+}
+.s9 {
+  width: 81px;
+  height: 98px;
+  position: absolute;
+  top: 7827px;
+  left: 997px;
+}
+.s10 {
+  width: 81px;
+  height: 98px;
+  position: absolute;
+  top: 8087px;
+  left: 1026px;
+}
+.s11 {
+  width: 201px;
+  height: 216px;
+  position: absolute;
+  top: 7800px;
+  left: 1291px;
+}
+.s12 {
+  width: 81px;
+  height: 98px;
+  position: absolute;
+  top: 8563px;
+  left: 1330px;
+}
+.cometa {
+  width: 770px;
+  height: 770px;
+  position: absolute;
+  top: 8021px;
+  left: 739px;
+}
+.path {
+  width: 603px;
+  height: 445px;
+  position: absolute;
+  top: 8432px;
+  left: 181px;
+}
+.gde {
+  font-size: 100px;
+  width: 763px;
+  height: 136px;
+  position: absolute;
+  top: 8764px;
+  left: 555px;
+}
+.Z {
+  font-size: 50px;
+  position: absolute;
+  top: 8913px;
+  left: 606px;
+}
+.P {
+  font-size: 50px;
+  position: absolute;
+  top: 8974px;
+  left: 606px;
+}
+.Up {
+  font-size: 50px;
+  position: absolute;
+  top: 9032px;
+  left: 606px;
+}
+.print {
+  font-size: 50px;
+  width: 415px;
+  height: 68px;
+  position: absolute;
+  top: 8914px;
+  left: 944px;
+}
+.book {
+  font-size: 36px;
+  position: absolute;
+  top: 8987px;
+  left: 1050px;
+}
+.newspaper {
+  font-size: 36px;
+  position: absolute;
+  top: 9038px;
+  left: 1049px;
+}
+.magazine {
+  font-size: 36px;
+  position: absolute;
+  top: 9089px;
+  left: 1050px;
+}
+.section-8 {
+  width: 1440px;
+  height: 1000px;
+  overflow: hidden;
+}
+.oblachko {
+  width: 1050px;
+  height: 545px;
+  position: absolute;
+  top: 9220px;
+  left: -20px;
+}
+.moon {
+  width: 700px;
+  height: 700px;
+  position: absolute;
+  top: 9290px;
+  left: 764px;
+}
+.Aleg {
+  width: 610px;
+  height: 610px;
+  position: absolute;
+  top: 9764px;
+  left: 191px;
+}
+.bigstar {
+  width: 805px;
+  height: 805px;
+  position: absolute;
+  top: 9634px;
+  left: 513px;
+}
+.me {
+  font-size: 50px;
+  width: 248px;
+  height: 68px;
+  position: absolute;
+  top: 9999px;
+  left: 805px;
+  color: #031d2e;
+}
+.buki {
+  font-size: 50px;
+  position: absolute;
+  top: 10059px;
+  left: 842px;
+  color: #031d2e;
+}
+.year {
+  font-size: 50px;
+  position: absolute;
+  top: 10108px;
+  left: 881px;
+  color: #031d2e;
+}
