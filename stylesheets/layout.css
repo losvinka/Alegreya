@@ -2,7 +2,7 @@
   box-sizing: border-box;
   color: #f4f1e1;
 }
-.section-1::after {
+/* .section-1::after {
   width: 1440px;
   height: 10355px;
   content: "";
@@ -11,7 +11,7 @@
   left: 0;
   background-image: url("../images/Frame1.svg");
   opacity: 0.3;
-}
+} */
 body {
   width: 1440px;
   display: block;

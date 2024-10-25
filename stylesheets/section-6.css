@@ -1,0 +1,171 @@
+.section-6 {
+  width: 1440px;
+  height: 1146px;
+  overflow: hidden;
+}
+.cloudy {
+  position: absolute;
+  width: 685px;
+  top: 6572px;
+  left: 27px;
+}
+.yellow {
+  position: absolute;
+  top: 6703px;
+  left: -7px;
+}
+.starsglifi {
+  position: absolute;
+  top: 6604px;
+  left: 784px;
+}
+.glifi {
+  font-size: 180px;
+  position: absolute;
+  top: 6619px;
+  left: 827px;
+}
+.glif1 {
+  width: 266px;
+  height: 165px;
+  position: absolute;
+  top: 7343px;
+  left: 294px;
+}
+.uh1 {
+  font-size: 150px;
+  transform: rotate(-30deg);
+  position: absolute;
+  top: 7355px;
+  left: 421px;
+  color: #031d2e;
+}
+.glif2 {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 7081px;
+  left: 481px;
+}
+.uh2 {
+  font-size: 150px;
+  color: #031d2e;
+  position: absolute;
+  top: 7104px;
+  left: 544px;
+}
+.glif3 {
+  width: 230px;
+  height: 230px;
+  position: absolute;
+  top: 6910px;
+  left: 708px;
+}
+.uh3 {
+  font-size: 150px;
+  color: #031d2e;
+  position: absolute;
+  top: 6940px;
+  left: 819px;
+  transform: rotate(15deg);
+}
+.glif4 {
+  width: 180px;
+  height: 180px;
+  position: absolute;
+  top: 7246px;
+  left: 628px;
+}
+.uh4 {
+  font-size: 150px;
+  color: #031d2e;
+  position: absolute;
+  top: 7230px;
+  left: 657px;
+}
+.glif5 {
+  width: 210px;
+  height: 210px;
+  position: absolute;
+  top: 7478px;
+  left: 652px;
+}
+.uh5 {
+  font-size: 150px;
+  color: #031d2e;
+  position: absolute;
+  top: 7517px;
+  left: 740px;
+}
+.glif6 {
+  width: 225px;
+  height: 225px;
+  position: absolute;
+  top: 7095px;
+  left: 883px;
+}
+.uh6 {
+  font-size: 120px;
+  color: #031d2e;
+  position: absolute;
+  top: 7147px;
+  left: 941px;
+  transform: rotate(-15deg);
+}
+.glif7 {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 7300px;
+  left: 867px;
+}
+.uh7 {
+  font-size: 140px;
+  color: #031d2e;
+  position: absolute;
+  top: 7320px;
+  left: 915px;
+}
+.glif8 {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 6940px;
+  left: 1072px;
+}
+.uh8 {
+  font-size: 150px;
+  color: #031d2e;
+  position: absolute;
+  top: 6958px;
+  left: 1131px;
+}
+.glif9 {
+  width: 170px;
+  height: 170px;
+  position: absolute;
+  top: 7203px;
+  left: 1228px;
+}
+.uh9 {
+  font-size: 150px;
+  position: absolute;
+  top: 7194px;
+  left: 1274px;
+  color: #031d2e;
+}
+.glif10 {
+  width: 190px;
+  height: 190px;
+  position: absolute;
+  top: 7425px;
+  left: 1076px;
+}
+.uh10 {
+  font-size: 150px;
+  color: #031d2e;
+  position: absolute;
+  top: 7433px;
+  left: 1137px;
+  transform: rotate(-7deg);
+}

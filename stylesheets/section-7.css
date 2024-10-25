@@ -1,0 +1,155 @@
+.section-7 {
+  width: 1440px;
+  height: 1470px;
+  overflow: hidden;
+}
+.s1 {
+  width: 274px;
+  height: 323px;
+  position: absolute;
+  top: 8490px;
+  left: -22px;
+}
+.s2 {
+  width: 201px;
+  height: 216px;
+  position: absolute;
+  top: 8120px;
+  left: 98px;
+}
+.s3 {
+  width: 76px;
+  height: 84px;
+  position: absolute;
+  top: 7954px;
+  left: 178px;
+}
+.s4 {
+  width: 130px;
+  height: 140px;
+  position: absolute;
+  top: 7730px;
+  left: 312px;
+}
+.s5 {
+  width: 130px;
+  height: 140px;
+  position: absolute;
+  top: 7995px;
+  left: 442px;
+}
+.s6 {
+  width: 171px;
+  height: 171px;
+  position: absolute;
+  top: 8341px;
+  left: 427px;
+}
+.s7 {
+  width: 81px;
+  height: 98px;
+  position: absolute;
+  top: 8121px;
+  left: 716px;
+}
+.s8 {
+  width: 68px;
+  height: 60px;
+  position: absolute;
+  top: 7848px;
+  left: 698px;
+}
+.s9 {
+  width: 81px;
+  height: 98px;
+  position: absolute;
+  top: 7827px;
+  left: 997px;
+}
+.s10 {
+  width: 81px;
+  height: 98px;
+  position: absolute;
+  top: 8087px;
+  left: 1026px;
+}
+.s11 {
+  width: 201px;
+  height: 216px;
+  position: absolute;
+  top: 7800px;
+  left: 1291px;
+}
+.s12 {
+  width: 81px;
+  height: 98px;
+  position: absolute;
+  top: 8563px;
+  left: 1330px;
+}
+.cometa {
+  width: 770px;
+  height: 770px;
+  position: absolute;
+  top: 8021px;
+  left: 739px;
+}
+.path {
+  width: 603px;
+  height: 445px;
+  position: absolute;
+  top: 8432px;
+  left: 181px;
+}
+.gde {
+  font-size: 100px;
+  width: 763px;
+  height: 136px;
+  position: absolute;
+  top: 8764px;
+  left: 555px;
+}
+.Z {
+  font-size: 50px;
+  position: absolute;
+  top: 8913px;
+  left: 606px;
+}
+.P {
+  font-size: 50px;
+  position: absolute;
+  top: 8974px;
+  left: 606px;
+}
+.Up {
+  font-size: 50px;
+  position: absolute;
+  top: 9032px;
+  left: 606px;
+}
+.print {
+  font-size: 50px;
+  width: 415px;
+  height: 68px;
+  position: absolute;
+  top: 8914px;
+  left: 944px;
+}
+.book {
+  font-size: 36px;
+  position: absolute;
+  top: 8987px;
+  left: 1050px;
+}
+.newspaper {
+  font-size: 36px;
+  position: absolute;
+  top: 9038px;
+  left: 1049px;
+}
+.magazine {
+  font-size: 36px;
+  position: absolute;
+  top: 9089px;
+  left: 1050px;
+}

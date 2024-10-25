@@ -1,11 +1,12 @@
 .section-2 {
   width: 1440px;
   height: 1127px;
+  overflow: hidden;
 }
 .tarot-and-stars {
   width: 100%;
   display: flex;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 .tarot-and-stars :nth-of-type(1) {
   width: 426px;

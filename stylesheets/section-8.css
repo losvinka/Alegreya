@@ -1,0 +1,56 @@
+.section-8 {
+  width: 1440px;
+  height: 1000px;
+  overflow: hidden;
+}
+.oblachko {
+  width: 1050px;
+  height: 545px;
+  position: absolute;
+  top: 9220px;
+  left: -20px;
+}
+.moon {
+  width: 700px;
+  height: 700px;
+  position: absolute;
+  top: 9290px;
+  left: 764px;
+}
+.Aleg {
+  width: 610px;
+  height: 610px;
+  position: absolute;
+  top: 9764px;
+  left: 191px;
+}
+.bigstar {
+  width: 805px;
+  height: 805px;
+  position: absolute;
+  top: 9634px;
+  left: 513px;
+}
+.me {
+  font-size: 50px;
+  width: 248px;
+  height: 68px;
+  position: absolute;
+  top: 9999px;
+  left: 805px;
+  color: #031d2e;
+}
+.buki {
+  font-size: 50px;
+  position: absolute;
+  top: 10059px;
+  left: 842px;
+  color: #031d2e;
+}
+.year {
+  font-size: 50px;
+  position: absolute;
+  top: 10108px;
+  left: 881px;
+  color: #031d2e;
+}

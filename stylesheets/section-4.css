@@ -5,12 +5,29 @@
 .left {
   width: 700px;
   height: 700px;
-  margin-top: 1196px;
+  margin-top: -312px;
   margin-left: -692px;
+}
+.history {
+  font-size: 130px;
+  margin-top: 141px;
+  margin-left: 432px;
 }
 .taroo3 {
   width: 950px;
   height: 550px;
   margin-top: -273px;
   margin-left: 487px;
+}
+.textic {
+  font-size: 34px;
+  margin-top: -473px;
+  margin-left: 574px;
+  line-height: 120%;
+}
+.tochka {
+  font-size: 40px;
+  transform: rotate(-90deg);
+  margin-top: -171px;
+  margin-left: 1281px;
 }
